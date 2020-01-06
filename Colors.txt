@@ -3,6 +3,7 @@ The Colors
 Pink
 Orange
 Blue
+Yellow
 Red
 Green
 Purple
