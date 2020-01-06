@@ -1,4 +1,4 @@
-The Colors
+The Colors and sport
 
 Pink
 Orange
@@ -6,7 +6,9 @@ Blue
 Yellow
 Black
 Red
+Foot
 Green
 Purple
 
-This is are my favorite colors
+This is are my favorite colors.
+And sports.
