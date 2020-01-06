@@ -4,6 +4,7 @@ Pink
 Orange
 Blue
 Yellow
+Black
 Red
 Green
 Purple
